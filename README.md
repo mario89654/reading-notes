@@ -12,7 +12,7 @@ __Hola que tal? Soy un futuro programador de 35 años y vivo en San Borja. Me en
 __Ser un programador pro y tener una lista grande de empresas donde tendre un equipo grande trabajando para la satisfaccion de cada uno de ellos.__
 
 
-### Pueden contactarme atraves de estos links.
+### Pueden contactarme atraves de estos links;
 
 1. [Instagram](https://www.instagram.com/mariokhan89?igsh=dGFkYnd2bmJtNm4z)
 
