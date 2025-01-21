@@ -1,4 +1,4 @@
-# Markdown.
+# Mark-down.
 
 __Markdown es un lenguaje de marcado ligero que permite formatear texto de manera sencilla y rápida. Se usa para crear documentos con formato, como títulos, listas, enlaces, sin necesidad de usar etiquetas complejas como en HTML. Es ampliamente utilizado en plataformas como GitHub, blogs y sistemas de documentación, debido a su simplicidad y legibilidad.__
 
