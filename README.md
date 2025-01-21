@@ -14,6 +14,6 @@ __Ser un programador pro y tener una lista grande de empresas donde tendre un eq
 
 ### Pueden contactarme atraves de estos links.
 
-!. [Instagram](https://www.instagram.com/mariokhan89?igsh=dGFkYnd2bmJtNm4z)
+1. [Instagram](https://www.instagram.com/mariokhan89?igsh=dGFkYnd2bmJtNm4z)
 
 2. [mario.j.wells89@gmail.com](mailto:mario.j.wells89@gmail.com)
