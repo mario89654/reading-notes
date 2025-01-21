@@ -5,7 +5,7 @@ __Markdown es un lenguaje de marcado ligero que permite formatear texto de maner
 ## Para que sirve _Mark-Down_ ?.
 _Markdown nos permite crear ficheros de texto escalables y mantenibles en el tiempo; con formato, títulos y subtítulos, tablas, hiperenlaces, imágenes enlazadas, …etc.; no dependientes de ninguna herramienta ni fabricante._
 
-** Algo muy importante para recordar es que todo lo que hacemos en Mark-down se procesa como HTML.**
+**Algo muy importante para recordar es que todo lo que hacemos en Mark-down se procesa como HTML.**
 
 ### Tambien es muy bueno para crear listas ordenadas y no ordenadas, como por ejemplo.
 
